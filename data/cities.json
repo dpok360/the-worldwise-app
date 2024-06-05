@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "cityName": "Ktm",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 27.7172,
+        "lng": 85.324
+      },
+      "id": "768789769"
+    },
+    {
+      "id": "8e7c",
+      "cityName": "Andorra la Vella",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2024-05-02T14:37:18.520Z",
+      "notes": "jbwefjbpqjwkfe",
+      "position": {
+        "lat": "42.50450285299051",
+        "lng": "1.4941406250000002"
+      }
+    },
+    {
+      "id": "24ca",
+      "cityName": "Washington",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-05-02T14:38:06.845Z",
+      "notes": "washington",
+      "position": {
+        "lat": "38.685509760012025",
+        "lng": "-76.86035156250001"
+      }
+    },
+    {
+      "id": "15df",
+      "cityName": "Butwal",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2024-05-02T17:06:56.551Z",
+      "notes": "butwal",
+      "position": {
+        "lat": "27.698120147680104",
+        "lng": "83.46588134765626"
+      }
+    },
+    {
+      "id": "e99b",
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-05-03T09:54:21.800Z",
+      "notes": "russia",
+      "position": {
+        "lat": "55.74566603524846",
+        "lng": "37.62817382812501"
+      }
+    },
+    {
+      "id": "ea8b",
+      "cityName": "Strait of Gibraltar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-03T09:57:00.752Z",
+      "notes": "",
+      "position": {
+        "lat": "36.03133177633189",
+        "lng": "-5.361328125"
+      }
+    }
+  ]
+}
